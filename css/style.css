@@ -1,0 +1,58 @@
+.mapsize{
+    width: 55%!important;
+    border-radius: 30%;
+    margin:0;
+    padding:0;
+}
+.c19size{
+    width: 100%!important;
+    border-radius: 30%;
+}
+.mask{
+    width: 40%!important;
+    border-radius: 30%;
+}
+.teamwork{
+    width: 40%!important;
+    border-radius: 30%;
+}
+.homemade{
+    width: 70%!important;
+    border-radius: 30%;
+}
+.guide{
+    width: 50%!important;
+    border-radius:30%;
+}
+
+.jumprope{
+    width: 65%!important;
+}
+
+
+.juggle{
+    width: 50%!important;
+
+    border-radius:30%;
+}
+
+
+.fun{
+    width: 65%!important;
+
+    border-radius:30%;
+}
+
+body{
+    color:white;
+    background-color: rgb(19, 57, 102);
+
+}
+hr{
+    border-color: #0099ff;
+    border-width: 2px;
+}
+.g{
+    color:#b3d9ff;
+    list-style-type: none;
+}
