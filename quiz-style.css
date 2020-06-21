@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(19, 57, 102);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+
+#third {
+    margin: 50px 15px;
+}
+#first {
+    margin: 50px 15px;
+}
+#second {
+    margin: 50px 15px;
+}
+#fourth {
+    margin: 50px 15px;
+}
+
+/* .start-quiz {
+    visibility: hidden;
+} */
