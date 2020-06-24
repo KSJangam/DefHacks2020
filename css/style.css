@@ -5,8 +5,10 @@
     padding:0;
 }
 .c19size{
-    width: 100%!important;
+    width: 45%!important;
     border-radius: 30%;
+    padding-right: 30px;
+    margin-bottom: 25px;
 }
 .mask{
     width: 40%!important;
@@ -26,16 +28,21 @@
 }
 
 .jumprope{
-    width: 65%!important;
+    width: 85%!important;
+    padding-top: 30px;
+    border-radius: 30%;
 }
 
 
 .juggle{
-    width: 50%!important;
+    width: 90%!important;
 
     border-radius:30%;
 }
 
+.home-des {
+    padding-right: 10%;
+}
 
 .fun{
     width: 65%!important;
@@ -44,15 +51,48 @@
 }
 
 body{
-    color:white;
-    background-color: rgb(19, 57, 102);
+    color:#4a5b6d;
+    background-color: rgb(197, 204, 211);
 
 }
-hr{
-    border-color: #0099ff;
+hr, .line{
+    border-color: #611704;
     border-width: 2px;
 }
 .g{
-    color:#b3d9ff;
+    color:#4a5b6d;
     list-style-type: none;
+}
+
+h1 {
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#third {
+    margin: 50px 15px;
+}
+#first {
+    margin: 50px 15px;
+}
+#second {
+    margin: 50px 15px;
+}
+#fourth {
+    margin: 50px 15px;
+}
+
+.row {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.foot {
+    margin-top: 200px;
+}
+
+.quiz-back {
+    background-color: rgb(68, 23, 23);
+    color: white;
 }

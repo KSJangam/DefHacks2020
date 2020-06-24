@@ -26,8 +26,9 @@ var ind = 0;
 var clickStr;
 var userAns = 0;
 
-starting1 = true;
-starting2 = true;
+var quesHide = true;
+var starting1 = true;
+var starting2 = true;
 
 function firstQ() {
 
@@ -51,6 +52,7 @@ $(".btn").click(function (event) {
         case "fourth":
             userAns = 4;
             break;
+        
         default:
             break;
     }
